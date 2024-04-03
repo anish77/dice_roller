@@ -1,16 +1,14 @@
-# first_app
+# dice_roller
 
 A new Flutter project.
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
+This project is a Flutter application, with a single screen. A dice roller that is capable of simultaneously rolling up to 6 dice randomly.
 
-A few resources to get you started if this is your first Flutter project:
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+
+
+https://github.com/anish77/dice_roller/assets/45210460/ef37c631-7c3b-44ad-9b6b-8316725a562f
+
